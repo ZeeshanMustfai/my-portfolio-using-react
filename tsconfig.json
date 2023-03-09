@@ -11,11 +11,7 @@
 		"strict": true,
 		"skipLibCheck": true,
 		"esModuleInterop": true,
-		"allowSyntheticDefaultImports": true,
-		"paths": {
-			"@Components/*": ["./src/components/*"],
-			"@pages/*": ["./src/pages/*"]
-		}
+		"allowSyntheticDefaultImports": true
 	},
 	"include": ["src", "./declaration.d.ts"]
 }
